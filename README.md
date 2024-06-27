@@ -24,6 +24,3 @@ Start typing in the search box to filter users by name or location.
 
 
 
-https://github.com/JainnPranjal/User-filter/assets/126106793/2a7756db-8902-4916-9309-15edf48a1786
-
-
